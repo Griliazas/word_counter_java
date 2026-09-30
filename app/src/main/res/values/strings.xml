@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">word_counter_java</string>
+
+        <string-array name="counter_choices">
+            <item>Sentences</item>
+            <item>Words</item>
+            <item>Punctuation marks</item>
+            <item>Numbers</item>
+        </string-array>
+
+
+
+</resources>
