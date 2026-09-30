@@ -1,13 +1,16 @@
 <resources>
     <string name="app_name">word_counter_java</string>
 
-        <string-array name="counter_choices">
-            <item>Sentences</item>
-            <item>Words</item>
-            <item>Punctuation marks</item>
-            <item>Numbers</item>
-        </string-array>
+    <string-array name="counter_choices">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Punctuation marks</item>
+        <item>Numbers</item>
+    </string-array>
 
-
+    <string name="title_name">Gereusias skaiciuotuvas visoje Evropoje!!!!</string>
+    <string name="button_name">Skaiciuok!</string>
+    <string name="answer_name">Ce bus atsakymas :3</string>
+    <string name="input_name">Rasyk gaidy</string>
 
 </resources>
